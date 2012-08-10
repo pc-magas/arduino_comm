@@ -1,11 +1,8 @@
+
 Arduino communication library
 Ths library allows you to communitate with arduino through USB Serial Interface.
 
 Compile in terminal:
-	gcc -o <exevutalble> <your project's c files> Arduino.c
-
-In your code intergrade:
-
+	gcc -o <executable> <code depends to> Arduino.c
+In your code include the line for the preprocessor:
 	#include "Arduino.h"
-
-on the first line
