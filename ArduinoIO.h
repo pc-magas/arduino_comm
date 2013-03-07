@@ -27,8 +27,8 @@ The Liabraries Are Under GNU LESSER GPL v3: http://www.gnu.org/licenses/lgpl.htm
 
 
 */
-#ifndef ARDUINO_
-#define ARDUINO_
+#ifndef ARDUINOIO_
+#define ARDUINOIO_
 #include <termios.h>
 #include <unistd.h>   /* UNIX standard function definitions */
 #include <stdlib.h>
